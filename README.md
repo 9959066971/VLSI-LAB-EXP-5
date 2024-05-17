@@ -98,5 +98,6 @@ endmodule
 ![image](https://github.com/9959066971/VLSI-LAB-EXP-5/assets/167750672/7f3bb8ca-c4e9-4363-be86-cdf90ea8f3bc)
 
 ## RESULT:
+
 Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
 
